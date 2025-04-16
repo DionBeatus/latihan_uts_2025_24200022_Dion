@@ -1,0 +1,17 @@
+:root{
+    --primary: #2c3e50;
+    --accent: gunakan warna #6c63ff
+    --gradient-bg: buat gradien dari kiri ke kanan dengan kombinasi #6c63ff, #7b68ee, dan #a067e3
+    --text: gunakan warna #333
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #f4f6fa;
+}
